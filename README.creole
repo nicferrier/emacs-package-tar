@@ -1,0 +1,2 @@
+This is a dummy package, useful for testing tar uploading to marmalade-repo.
+
